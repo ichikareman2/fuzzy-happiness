@@ -1,0 +1,18 @@
+{
+  "name": "fuzzy-hapiness-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "main": "bundles/fuzzy-hapiness-lib.umd.js",
+  "module": "fesm2015/fuzzy-hapiness-lib.js",
+  "es2015": "fesm2015/fuzzy-hapiness-lib.js",
+  "esm2015": "esm2015/fuzzy-hapiness-lib.js",
+  "fesm2015": "fesm2015/fuzzy-hapiness-lib.js",
+  "typings": "fuzzy-hapiness-lib.d.ts",
+  "sideEffects": false
+}
