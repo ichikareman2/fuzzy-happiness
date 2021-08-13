@@ -3,23 +3,24 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "fuzzy-hapiness-lib": {
+    "fuzzy-happiness-lib": {
       "projectType": "library",
-      "root": "projects/fuzzy-hapiness-lib",
-      "sourceRoot": "projects/fuzzy-hapiness-lib/src",
+      "root": "projects/fuzzy-happiness-lib",
+      "sourceRoot": "projects/fuzzy-happiness-lib/src",
       "prefix": "lib",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
-            "project": "projects/fuzzy-hapiness-lib/ng-package.json"
+            "project": "projects/fuzzy-happiness-lib/ng-package.json",
+            "tsConfig": "projects/fuzzy-happiness-lib/tsconfig.lib.json"
           },
           "configurations": {
             "production": {
-              "tsConfig": "projects/fuzzy-hapiness-lib/tsconfig.lib.prod.json"
+              "tsConfig": "projects/fuzzy-happiness-lib/tsconfig.lib.prod.json"
             },
             "development": {
-              "tsConfig": "projects/fuzzy-hapiness-lib/tsconfig.lib.json"
+              "tsConfig": "projects/fuzzy-happiness-lib/tsconfig.lib.json"
             }
           },
           "defaultConfiguration": "production"
@@ -27,13 +28,13 @@
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
-            "main": "projects/fuzzy-hapiness-lib/src/test.ts",
-            "tsConfig": "projects/fuzzy-hapiness-lib/tsconfig.spec.json",
-            "karmaConfig": "projects/fuzzy-hapiness-lib/karma.conf.js"
+            "main": "projects/fuzzy-happiness-lib/src/test.ts",
+            "tsConfig": "projects/fuzzy-happiness-lib/tsconfig.spec.json",
+            "karmaConfig": "projects/fuzzy-happiness-lib/karma.conf.js"
           }
         }
       }
     }
   },
-  "defaultProject": "fuzzy-hapiness-lib"
+  "defaultProject": "fuzzy-happiness-lib"
 }

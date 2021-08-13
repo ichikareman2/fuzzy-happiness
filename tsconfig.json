@@ -8,9 +8,9 @@
     "strict": true,
     "noImplicitReturns": true,
     "paths": {
-      "fuzzy-hapiness-lib": [
-        "dist/fuzzy-hapiness-lib/fuzzy-hapiness-lib",
-        "dist/fuzzy-hapiness-lib"
+      "fuzzy-happiness-lib": [
+        "dist/fuzzy-happiness-lib/fuzzy-happiness-lib",
+        "dist/fuzzy-happiness-lib"
       ]
     },
     "noFallthroughCasesInSwitch": true,
