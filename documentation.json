@@ -31,7 +31,78 @@
     "components": [
         {
             "name": "ButtonComponent",
-            "id": "component-ButtonComponent-642c6c4e474cd5a0ac760dfda26b2fc9",
+            "id": "component-ButtonComponent-8863aac1e96cf5916189ac0aceae95e2",
+            "file": "projects/fuzzy-happiness-lib/src/lib/button/button.component.ts",
+            "encapsulation": [],
+            "entryComponents": [],
+            "inputs": [],
+            "outputs": [],
+            "providers": [],
+            "selector": "lib-button",
+            "styleUrls": [
+                "./button.component.css"
+            ],
+            "styles": [],
+            "templateUrl": [
+                "./button.component.html"
+            ],
+            "viewProviders": [],
+            "inputsClass": [],
+            "outputsClass": [
+                {
+                    "name": "onClick",
+                    "defaultValue": "new EventEmitter<Event>()",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "line": 12,
+                    "type": "EventEmitter"
+                }
+            ],
+            "propertiesClass": [],
+            "methodsClass": [
+                {
+                    "name": "ngOnInit",
+                    "args": [],
+                    "optional": false,
+                    "returnType": "void",
+                    "typeParameters": [],
+                    "line": 16,
+                    "deprecated": false,
+                    "deprecationMessage": ""
+                }
+            ],
+            "deprecated": false,
+            "deprecationMessage": "",
+            "hostBindings": [],
+            "hostListeners": [],
+            "description": "",
+            "rawdescription": "\n",
+            "type": "component",
+            "sourceCode": "import { Component, OnInit, Output, EventEmitter } from '@angular/core';\n\n@Component({\n  selector: 'lib-button',\n  templateUrl: './button.component.html',\n  styleUrls: ['./button.component.css']\n  // host: {'class': 'someClass1'}\n})\nexport class ButtonComponent implements OnInit {\n\n  // @Input()\n  @Output() onClick = new EventEmitter<Event>();\n\n  constructor() { }\n\n  ngOnInit(): void {}\n\n}\n",
+            "assetsDirs": [],
+            "styleUrlsData": [
+                {
+                    "data": "",
+                    "styleUrl": "./button.component.css"
+                }
+            ],
+            "stylesData": "",
+            "constructorObj": {
+                "name": "constructor",
+                "description": "",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "args": [],
+                "line": 12
+            },
+            "implements": [
+                "OnInit"
+            ],
+            "templateData": "<button type=\"button\" (click)=\"onClick.emit($event)\">\n  <ng-content></ng-content>\n</button>\n"
+        },
+        {
+            "name": "ButtonComponent",
+            "id": "component-ButtonComponent-642c6c4e474cd5a0ac760dfda26b2fc9-1",
             "file": "projects/fuzzy-happiness-lib/src/lib/stories/button.component.ts",
             "encapsulation": [],
             "entryComponents": [],
@@ -147,7 +218,10 @@
                         "line": 48
                     }
                 }
-            }
+            },
+            "isDuplicate": true,
+            "duplicateId": 1,
+            "duplicateName": "ButtonComponent-1"
         },
         {
             "name": "FuzzyHappinessLibComponent",
@@ -350,13 +424,13 @@
     "modules": [
         {
             "name": "FuzzyHappinessLibModule",
-            "id": "module-FuzzyHappinessLibModule-351a842aefeaae955bcfc0c9ae7c4d83",
+            "id": "module-FuzzyHappinessLibModule-00b867e2721fcb054b82180e7cea466a",
             "description": "",
             "deprecationMessage": "",
             "deprecated": false,
             "file": "projects/fuzzy-happiness-lib/src/lib/fuzzy-happiness-lib.module.ts",
             "methods": [],
-            "sourceCode": "import { NgModule } from '@angular/core';\nimport { FuzzyHappinessLibComponent } from './fuzzy-happiness-lib.component';\n\n\n\n@NgModule({\n  declarations: [\n    FuzzyHappinessLibComponent\n  ],\n  imports: [\n  ],\n  exports: [\n    FuzzyHappinessLibComponent\n  ]\n})\nexport class FuzzyHappinessLibModule { }\n",
+            "sourceCode": "import { NgModule } from '@angular/core';\nimport { FuzzyHappinessLibComponent } from './fuzzy-happiness-lib.component';\nimport { ButtonComponent } from './button/button.component';\n\n\n\n@NgModule({\n  declarations: [\n    FuzzyHappinessLibComponent,\n    ButtonComponent\n  ],\n  imports: [\n  ],\n  exports: [\n    FuzzyHappinessLibComponent\n  ]\n})\nexport class FuzzyHappinessLibModule { }\n",
             "children": [
                 {
                     "type": "providers",
@@ -365,6 +439,9 @@
                 {
                     "type": "declarations",
                     "elements": [
+                        {
+                            "name": "ButtonComponent"
+                        },
                         {
                             "name": "FuzzyHappinessLibComponent"
                         }
@@ -395,6 +472,16 @@
     ],
     "miscellaneous": {
         "variables": [
+            {
+                "name": "actionsData",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "object",
+                "defaultValue": "{\r\n  onClick: action('onClick'),\r\n}"
+            },
             {
                 "name": "context",
                 "ctype": "miscellaneous",
@@ -456,6 +543,16 @@
                 "defaultValue": "Template.bind({})"
             },
             {
+                "name": "Normal",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "Template.bind({})"
+            },
+            {
                 "name": "Primary",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
@@ -498,6 +595,16 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story<ButtonComponent>",
+                "defaultValue": "(args: ButtonComponent) => ({\r\n  props: {\r\n    ...args,\r\n    onClick: actionsData.onClick\r\n  }\r\n})"
+            },
+            {
+                "name": "Template",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "projects/fuzzy-happiness-lib/src/lib/stories/Button.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -529,6 +636,38 @@
         "typealiases": [],
         "enumerations": [],
         "groupedVariables": {
+            "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts": [
+                {
+                    "name": "actionsData",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "object",
+                    "defaultValue": "{\r\n  onClick: action('onClick'),\r\n}"
+                },
+                {
+                    "name": "Normal",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "Template.bind({})"
+                },
+                {
+                    "name": "Template",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story<ButtonComponent>",
+                    "defaultValue": "(args: ButtonComponent) => ({\r\n  props: {\r\n    ...args,\r\n    onClick: actionsData.onClick\r\n  }\r\n})"
+                }
+            ],
             "projects/fuzzy-happiness-lib/src/test.ts": [
                 {
                     "name": "context",
@@ -673,9 +812,48 @@
     },
     "routes": [],
     "coverage": {
-        "count": 4,
+        "count": 3,
         "status": "low",
         "files": [
+            {
+                "filePath": "projects/fuzzy-happiness-lib/src/lib/button/button.component.ts",
+                "type": "component",
+                "linktype": "component",
+                "name": "ButtonComponent",
+                "coveragePercent": 0,
+                "coverageCount": "0/4",
+                "status": "low"
+            },
+            {
+                "filePath": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                "type": "variable",
+                "linktype": "miscellaneous",
+                "linksubtype": "variable",
+                "name": "actionsData",
+                "coveragePercent": 0,
+                "coverageCount": "0/1",
+                "status": "low"
+            },
+            {
+                "filePath": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                "type": "variable",
+                "linktype": "miscellaneous",
+                "linksubtype": "variable",
+                "name": "Normal",
+                "coveragePercent": 0,
+                "coverageCount": "0/1",
+                "status": "low"
+            },
+            {
+                "filePath": "projects/fuzzy-happiness-lib/src/lib/button/button.stories.ts",
+                "type": "variable",
+                "linktype": "miscellaneous",
+                "linksubtype": "variable",
+                "name": "Template",
+                "coveragePercent": 0,
+                "coverageCount": "0/1",
+                "status": "low"
+            },
             {
                 "filePath": "projects/fuzzy-happiness-lib/src/lib/fuzzy-happiness-lib.component.ts",
                 "type": "component",

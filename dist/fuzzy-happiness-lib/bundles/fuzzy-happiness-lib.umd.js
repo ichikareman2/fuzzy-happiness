@@ -58,19 +58,43 @@
                     }]
             }], ctorParameters: function () { return []; } });
 
+    var ButtonComponent = /** @class */ (function () {
+        function ButtonComponent() {
+            // @Input()
+            this.onClick = new i0.EventEmitter();
+        }
+        ButtonComponent.prototype.ngOnInit = function () { };
+        return ButtonComponent;
+    }());
+    ButtonComponent.ɵfac = i0__namespace.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0__namespace, type: ButtonComponent, deps: [], target: i0__namespace.ɵɵFactoryTarget.Component });
+    ButtonComponent.ɵcmp = i0__namespace.ɵɵngDeclareComponent({ minVersion: "12.0.0", version: "12.1.5", type: ButtonComponent, selector: "lib-button", outputs: { onClick: "onClick" }, ngImport: i0__namespace, template: "<button type=\"button\" (click)=\"onClick.emit($event)\">\n  <ng-content></ng-content>\n</button>\n", styles: [""] });
+    i0__namespace.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0__namespace, type: ButtonComponent, decorators: [{
+                type: i0.Component,
+                args: [{
+                        selector: 'lib-button',
+                        templateUrl: './button.component.html',
+                        styleUrls: ['./button.component.css']
+                        // host: {'class': 'someClass1'}
+                    }]
+            }], ctorParameters: function () { return []; }, propDecorators: { onClick: [{
+                    type: i0.Output
+                }] } });
+
     var FuzzyHappinessLibModule = /** @class */ (function () {
         function FuzzyHappinessLibModule() {
         }
         return FuzzyHappinessLibModule;
     }());
     FuzzyHappinessLibModule.ɵfac = i0__namespace.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0__namespace, type: FuzzyHappinessLibModule, deps: [], target: i0__namespace.ɵɵFactoryTarget.NgModule });
-    FuzzyHappinessLibModule.ɵmod = i0__namespace.ɵɵngDeclareNgModule({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0__namespace, type: FuzzyHappinessLibModule, declarations: [FuzzyHappinessLibComponent], exports: [FuzzyHappinessLibComponent] });
+    FuzzyHappinessLibModule.ɵmod = i0__namespace.ɵɵngDeclareNgModule({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0__namespace, type: FuzzyHappinessLibModule, declarations: [FuzzyHappinessLibComponent,
+            ButtonComponent], exports: [FuzzyHappinessLibComponent] });
     FuzzyHappinessLibModule.ɵinj = i0__namespace.ɵɵngDeclareInjector({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0__namespace, type: FuzzyHappinessLibModule, imports: [[]] });
     i0__namespace.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0__namespace, type: FuzzyHappinessLibModule, decorators: [{
                 type: i0.NgModule,
                 args: [{
                         declarations: [
-                            FuzzyHappinessLibComponent
+                            FuzzyHappinessLibComponent,
+                            ButtonComponent
                         ],
                         imports: [],
                         exports: [
