@@ -5,22 +5,22 @@ export class FuzzyHappinessLibComponent {
     ngOnInit() {
     }
 }
-FuzzyHappinessLibComponent.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0, type: FuzzyHappinessLibComponent, deps: [], target: i0.ɵɵFactoryTarget.Component });
-FuzzyHappinessLibComponent.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "12.0.0", version: "12.1.5", type: FuzzyHappinessLibComponent, selector: "lib-fuzzy-happiness-lib", ngImport: i0, template: `
-    <p>
-      fuzzy-happiness-lib works!
-    </p>
-  `, isInline: true });
-i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "12.1.5", ngImport: i0, type: FuzzyHappinessLibComponent, decorators: [{
-            type: Component,
-            args: [{
-                    selector: 'lib-fuzzy-happiness-lib',
-                    template: `
+FuzzyHappinessLibComponent.ɵfac = function FuzzyHappinessLibComponent_Factory(t) { return new (t || FuzzyHappinessLibComponent)(); };
+FuzzyHappinessLibComponent.ɵcmp = /*@__PURE__*/ i0.ɵɵdefineComponent({ type: FuzzyHappinessLibComponent, selectors: [["lib-fuzzy-happiness-lib"]], decls: 2, vars: 0, template: function FuzzyHappinessLibComponent_Template(rf, ctx) { if (rf & 1) {
+        i0.ɵɵelementStart(0, "p");
+        i0.ɵɵtext(1, " fuzzy-happiness-lib works! ");
+        i0.ɵɵelementEnd();
+    } }, encapsulation: 2 });
+(function () { (typeof ngDevMode === "undefined" || ngDevMode) && i0.ɵsetClassMetadata(FuzzyHappinessLibComponent, [{
+        type: Component,
+        args: [{
+                selector: 'lib-fuzzy-happiness-lib',
+                template: `
     <p>
       fuzzy-happiness-lib works!
     </p>
   `,
-                    styles: []
-                }]
-        }], ctorParameters: function () { return []; } });
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZnV6enktaGFwcGluZXNzLWxpYi5jb21wb25lbnQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9wcm9qZWN0cy9mdXp6eS1oYXBwaW5lc3MtbGliL3NyYy9saWIvZnV6enktaGFwcGluZXNzLWxpYi5jb21wb25lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLFNBQVMsRUFBVSxNQUFNLGVBQWUsQ0FBQzs7QUFZbEQsTUFBTSxPQUFPLDBCQUEwQjtJQUVyQyxnQkFBZ0IsQ0FBQztJQUVqQixRQUFRO0lBQ1IsQ0FBQzs7dUhBTFUsMEJBQTBCOzJHQUExQiwwQkFBMEIsK0RBUjNCOzs7O0dBSVQ7MkZBSVUsMEJBQTBCO2tCQVZ0QyxTQUFTO21CQUFDO29CQUNULFFBQVEsRUFBRSx5QkFBeUI7b0JBQ25DLFFBQVEsRUFBRTs7OztHQUlUO29CQUNELE1BQU0sRUFBRSxFQUNQO2lCQUNGIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQ29tcG9uZW50LCBPbkluaXQgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcblxuQENvbXBvbmVudCh7XG4gIHNlbGVjdG9yOiAnbGliLWZ1enp5LWhhcHBpbmVzcy1saWInLFxuICB0ZW1wbGF0ZTogYFxuICAgIDxwPlxuICAgICAgZnV6enktaGFwcGluZXNzLWxpYiB3b3JrcyFcbiAgICA8L3A+XG4gIGAsXG4gIHN0eWxlczogW1xuICBdXG59KVxuZXhwb3J0IGNsYXNzIEZ1enp5SGFwcGluZXNzTGliQ29tcG9uZW50IGltcGxlbWVudHMgT25Jbml0IHtcblxuICBjb25zdHJ1Y3RvcigpIHsgfVxuXG4gIG5nT25Jbml0KCk6IHZvaWQge1xuICB9XG5cbn1cbiJdfQ==
+                styles: []
+            }]
+    }], function () { return []; }, null); })();
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZnV6enktaGFwcGluZXNzLWxpYi5jb21wb25lbnQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9wcm9qZWN0cy9mdXp6eS1oYXBwaW5lc3MtbGliL3NyYy9saWIvZnV6enktaGFwcGluZXNzLWxpYi5jb21wb25lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLFNBQVMsRUFBVSxNQUFNLGVBQWUsQ0FBQzs7QUFZbEQsTUFBTSxPQUFPLDBCQUEwQjtJQUVyQyxnQkFBZ0IsQ0FBQztJQUVqQixRQUFRO0lBQ1IsQ0FBQzs7b0dBTFUsMEJBQTBCOzZFQUExQiwwQkFBMEI7UUFQbkMseUJBQUc7UUFDRCw0Q0FDRjtRQUFBLGlCQUFJOzt1RkFLSywwQkFBMEI7Y0FWdEMsU0FBUztlQUFDO2dCQUNULFFBQVEsRUFBRSx5QkFBeUI7Z0JBQ25DLFFBQVEsRUFBRTs7OztHQUlUO2dCQUNELE1BQU0sRUFBRSxFQUNQO2FBQ0YiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBDb21wb25lbnQsIE9uSW5pdCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xuXG5AQ29tcG9uZW50KHtcbiAgc2VsZWN0b3I6ICdsaWItZnV6enktaGFwcGluZXNzLWxpYicsXG4gIHRlbXBsYXRlOiBgXG4gICAgPHA+XG4gICAgICBmdXp6eS1oYXBwaW5lc3MtbGliIHdvcmtzIVxuICAgIDwvcD5cbiAgYCxcbiAgc3R5bGVzOiBbXG4gIF1cbn0pXG5leHBvcnQgY2xhc3MgRnV6enlIYXBwaW5lc3NMaWJDb21wb25lbnQgaW1wbGVtZW50cyBPbkluaXQge1xuXG4gIGNvbnN0cnVjdG9yKCkgeyB9XG5cbiAgbmdPbkluaXQoKTogdm9pZCB7XG4gIH1cblxufVxuIl19

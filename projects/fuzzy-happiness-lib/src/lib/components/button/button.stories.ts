@@ -27,10 +27,39 @@ const Template: Story<ButtonComponent> = (args: ButtonComponent) => ({
     onClick: actionsData.onClick
   },
   template: `
-    <lib-button (click)="onClick($event)">Click me</lib-button>
+    <button
+      [lib-button]="color"
+      >
+      Click me
+    </button>
   `,
 });
 
-export const Normal = Template.bind({});
-Normal.args = {
+export const Primary = Template.bind({});
+Primary.args = {
+  color: 'blue'
+}
+export const Gray = Template.bind({});
+Gray.args = {
+  color: 'gray'
+}
+export const Red = Template.bind({});
+Red.args = {
+  color: 'red'
+}
+export const Yellow = Template.bind({});
+Yellow.args = {
+  color: 'yellow'
+}
+export const Green = Template.bind({});
+Green.args = {
+  color: 'green'
+}
+export const White = Template.bind({});
+White.args = {
+  color: 'white'
+}
+export const Black = Template.bind({});
+Black.args = {
+  color: 'black'
 }

@@ -3,6 +3,25 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+    "tailwindcss": {
+      "projectType": "library",
+      "root": "projects/tailwind",
+      "architect": {
+        "build": {
+          "builder": "@mw-angular/tailwindcss-builder:general",
+          "options": {
+            "themes": [
+              {
+                "configFile": "projects/tailwind/tailwind.config.js",
+                "cssFile": "projects/tailwind/tailwind.css",
+                "outputPath": "projects/fuzzy-happiness-lib/src/lib/styles",
+                "outputFileName": "tailwind"
+              }
+            ]
+          }
+        }
+      }
+    },
     "fuzzy-happiness-lib": {
       "projectType": "library",
       "root": "projects/fuzzy-happiness-lib",

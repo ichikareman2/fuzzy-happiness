@@ -6,3 +6,4 @@ export declare class FuzzyHappinessLibModule {
     static ɵmod: i0.ɵɵNgModuleDeclaration<FuzzyHappinessLibModule, [typeof i1.FuzzyHappinessLibComponent, typeof i2.ButtonComponent], never, [typeof i1.FuzzyHappinessLibComponent]>;
     static ɵinj: i0.ɵɵInjectorDeclaration<FuzzyHappinessLibModule>;
 }
+//# sourceMappingURL=fuzzy-happiness-lib.module.d.ts.map
