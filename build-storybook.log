@@ -1,0 +1,516 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.14
+
+TypeScript version used by Compodoc : 4.3.5
+
+TypeScript version of current project : 4.3.2
+
+Node.js version : v16.2.0
+
+Operating system : Windows 10
+
+[[90m18:26:05[39m] No configuration file found, switching to CLI flags.
+[[90m18:26:05[39m] Using tsconfig file : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\tsconfig.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.editorconfig
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.gitignore
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\angular.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\documentation.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\package.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\package-lock.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\build-storybook.log
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\README.md
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\tsconfig.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.storybook\main.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.storybook\preview.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.storybook\tsconfig.json
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.storybook\typings.d.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\fuzzy-happiness-lib.d.ts.map
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\public-api.d.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\package.json
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\public-api.d.ts.map
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\README.md
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\karma.conf.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\ng-package.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\package.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\README.md
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\tsconfig.lib.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\tsconfig.lib.prod.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\tsconfig.spec.json
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\tailwind\readme.md
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\fuzzy-happiness-lib.d.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\tailwind\tailwind.config.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\tailwind\tailwind.css
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\fuzzy-happiness-lib.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\public-api.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\bundles\fuzzy-happiness-lib.umd.js.map
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\bundles\fuzzy-happiness-lib.umd.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\fesm2015\fuzzy-happiness-lib.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\fesm2015\fuzzy-happiness-lib.js.map
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\fuzzy-happiness-lib.component.d.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\fuzzy-happiness-lib.component.d.ts.map
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\fuzzy-happiness-lib.module.d.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\fuzzy-happiness-lib.module.d.ts.map
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\fuzzy-happiness-lib.service.d.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\fuzzy-happiness-lib.service.d.ts.map
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\public-api.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\test.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\lib\fuzzy-happiness-lib.component.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\lib\fuzzy-happiness-lib.module.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\lib\fuzzy-happiness-lib.service.js
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\button\button.component.d.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\button\button.component.d.ts.map
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\directives\button.directive.d.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\directives\button.directive.d.ts.map
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\models\mode.model.d.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\lib\models\mode.model.d.ts.map
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\fuzzy-happiness-lib.component.spec.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\fuzzy-happiness-lib.component.ts
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\fuzzy-happiness-lib.service.spec.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\fuzzy-happiness-lib.module.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\fuzzy-happiness-lib.service.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\lib\button\button.component.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\lib\directives\button.directive.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\dist\fuzzy-happiness-lib\esm2015\lib\models\mode.model.js
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\models\mode.model.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\styles\tailwind.css
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\styles\tailwind.dev.css
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\components\button\button.component.css
+[[90m18:26:05[39m] Ignoring       : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\components\button\button.component.spec.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\components\button\button.component.html
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\components\button\button.component.ts
+[[90m18:26:05[39m] Including      : C:\Users\user\zProjects\personal-projects\fuzzy-happiness\projects\fuzzy-happiness-lib\src\lib\components\button\button.stories.ts
+[[90m18:26:05[39m] Searching package.json file
+[[90m18:26:05[39m] package.json file found
+[[90m18:26:05[39m] Processing package.json dependencies
+[[90m18:26:05[39m] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[[90m18:26:05[39m] README.md file found
+[[90m18:26:05[39m] Error during C:\Users\user\zProjects\personal-projects\fuzzy-happiness\CHANGELOG read
+[[90m18:26:05[39m] Continuing without CHANGELOG.md file
+[[90m18:26:05[39m] Error during C:\Users\user\zProjects\personal-projects\fuzzy-happiness\CONTRIBUTING read
+[[90m18:26:05[39m] Continuing without CONTRIBUTING.md file
+[[90m18:26:05[39m] Error during C:\Users\user\zProjects\personal-projects\fuzzy-happiness\LICENSE read
+[[90m18:26:05[39m] Continuing without LICENSE.md file
+[[90m18:26:05[39m] Error during C:\Users\user\zProjects\personal-projects\fuzzy-happiness\TODO read
+[[90m18:26:05[39m] Continuing without TODO.md file
+[[90m18:26:05[39m] Get dependencies data
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/public-api.ts
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/test.ts
+[[90m18:26:06[39m] found          : require
+[[90m18:26:06[39m] found          : context
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/lib/fuzzy-happiness-lib.component.ts
+[[90m18:26:06[39m] found          : FuzzyHappinessLibComponent
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/lib/fuzzy-happiness-lib.module.ts
+[[90m18:26:06[39m] found          : FuzzyHappinessLibModule
+[[90m18:26:06[39m]                : - exports:
+[[90m18:26:06[39m]                : 	- FuzzyHappinessLibComponent
+[[90m18:26:06[39m]                : - declarations:
+[[90m18:26:06[39m]                : 	- FuzzyHappinessLibComponent
+[[90m18:26:06[39m]                : 	- ButtonComponent
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/lib/fuzzy-happiness-lib.service.ts
+[[90m18:26:06[39m] found          : FuzzyHappinessLibService
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/lib/models/mode.model.ts
+[[90m18:26:06[39m] found          : Color
+[[90m18:26:06[39m] found          : PrimaryColor
+[[90m18:26:06[39m] found          : Mode
+[[90m18:26:06[39m] found          : ModeTextColorClass
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/lib/components/button/button.component.ts
+[[90m18:26:06[39m] found          : ButtonComponent
+[[90m18:26:06[39m] parsing        : C:/Users/user/zProjects/personal-projects/fuzzy-happiness/projects/fuzzy-happiness-lib/src/lib/components/button/button.stories.ts
+[[90m18:26:06[39m] found          : actionsData
+[[90m18:26:06[39m] found          : Template
+[[90m18:26:06[39m] found          : Primary
+[[90m18:26:06[39m] found          : Gray
+[[90m18:26:06[39m] found          : Red
+[[90m18:26:06[39m] found          : Yellow
+[[90m18:26:06[39m] found          : Green
+[[90m18:26:06[39m] found          : White
+[[90m18:26:06[39m] found          : Black
+[[90m18:26:06[39m] -------------------
+[[90m18:26:06[39m] Project statistics 
+[[90m18:26:06[39m] - files      : 48
+[[90m18:26:06[39m] - module     : 1
+[[90m18:26:06[39m] - component  : 2
+[[90m18:26:06[39m] - injectable : 1
+[[90m18:26:06[39m] -------------------
+[[90m18:26:06[39m] Prepare components
+[[90m18:26:06[39m]  ButtonComponent has a templateUrl, include it
+[[90m18:26:06[39m]  ButtonComponent has styleUrls, include them
+[[90m18:26:06[39m] Prepare modules
+[[90m18:26:06[39m] Prepare injectables
+[[90m18:26:06[39m] Prepare miscellaneous
+[[90m18:26:06[39m] Process documentation coverage report
+[[90m18:26:06[39m] Generating documentation in export format json
+[[90m18:26:06[39m] Documentation generated in ./ in 0.514 seconds
+info @storybook/angular v6.3.7
+info 
+info => Cleaning outputDir: C:\\Users\\user\\AppData\\Local\\Temp\\chromatic--16660-U9ozf8wSJ97x
+info => Loading presets
+info => Compiling preview..
+info => Loading 1 config file in "C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.storybook"
+info => Loading 9 other files in "C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.storybook"
+info => Adding stories defined in "C:\Users\user\zProjects\personal-projects\fuzzy-happiness\.storybook\main.js"
+info => Found custom tsconfig.json
+info => Using implicit CSS loaders
+info => Loading angular-cli config
+info => Using angular project "fuzzy-happiness-lib:build" for configuring Storybook
+info => Using angular-cli webpack config
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 1% setup initialize HtmlWebpackPlugin
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 2% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 3% setup run fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory ContextReplacementPlugin
+<s> [webpack.Progress] 5% setup context module factory ContextReplacementPlugin
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile fork-ts-checker-webpack-plugin
+Starting type checking service...
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/14 entries 14/14 dependencies 0/14 modules
+<s> [webpack.Progress] 10% building 0/14 entries 22/45 dependencies 0/21 modules
+<s> [webpack.Progress] 13% building 1/14 entries 372/487 dependencies 15/187 modules
+[BABEL] Note: The code generator has deoptimised the styling of C:\Users\user\zProjects\personal-projects\fuzzy-happiness\node_modules\prettier\standalone.js as it exceeds the max of 500KB.
+<s> [webpack.Progress] 13% building 1/14 entries 600/848 dependencies 39/243 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/ts-loader/index.js
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/angular/dist/ts3.9/server/ngx-template-loader/index.js
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 13% building 1/14 entries 1142/1180 dependencies 62/362 modules
+<s> [webpack.Progress] 13% building 1/14 entries 1700/1771 dependencies 189/437 modules
+<s> [webpack.Progress] 13% building 1/14 entries 2248/2494 dependencies 300/548 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/raw-loader/dist/cjs.js
+<s> [webpack.Progress] 13% building 1/14 entries 2507/2571 dependencies 336/596 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 13% building 1/14 entries 2507/2571 dependencies 336/596 modules
+<s> [webpack.Progress] 13% building 1/14 entries 2576/2800 dependencies 355/622 modules
+<s> [webpack.Progress] 14% building 1/14 entries 2700/2984 dependencies 369/636 modules
+<s> [webpack.Progress] 16% building 1/14 entries 3600/3677 dependencies 546/959 modules
+<s> [webpack.Progress] 18% building 1/14 entries 4200/4281 dependencies 779/1059 modules
+<s> [webpack.Progress] 22% building 1/14 entries 5058/5100 dependencies 1094/1267 modules
+<s> [webpack.Progress] 22% building 2/14 entries 5255/5302 dependencies 1168/1302 modules
+<s> [webpack.Progress] 22% building 3/14 entries 5255/5302 dependencies 1169/1302 modules
+<s> [webpack.Progress] 25% building 4/14 entries 5255/5302 dependencies 1170/1302 modules
+<s> [webpack.Progress] 29% building 5/14 entries 5255/5302 dependencies 1171/1302 modules
+<s> [webpack.Progress] 33% building 6/14 entries 5255/5302 dependencies 1172/1302 modules
+<s> [webpack.Progress] 37% building 7/14 entries 5255/5302 dependencies 1173/1302 modules
+<s> [webpack.Progress] 41% building 8/14 entries 5255/5302 dependencies 1174/1302 modules
+<s> [webpack.Progress] 45% building 9/14 entries 5255/5302 dependencies 1175/1302 modules
+<s> [webpack.Progress] 49% building 10/14 entries 5255/5302 dependencies 1176/1302 modules
+<s> [webpack.Progress] 53% building 11/14 entries 5818/5821 dependencies 1416/1452 modules
+<s> [webpack.Progress] 57% building 12/14 entries 5851/5853 dependencies 1447/1464 modules
+<s> [webpack.Progress] 61% building 13/14 entries 5851/5853 dependencies 1448/1464 modules
+<s> [webpack.Progress] 64% building 14/14 entries 5853/5853 dependencies 1464/1464 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids DeterministicModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.f89aabb0.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.f89aabb0.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c9e5172d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c9e5172d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 90.f9492d54.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 90.f9492d54.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 913.d932418c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 913.d932418c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 881.b214fb89.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 881.b214fb89.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.f3bd2e94.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.f3bd2e94.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 331.474cd3a8.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 331.474cd3a8.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 985.4f612f30.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 985.4f612f30.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.f89aabb0.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.f89aabb0.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c9e5172d.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c9e5172d.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 90.f9492d54.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 90.f9492d54.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 913.d932418c.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 913.d932418c.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 881.b214fb89.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 881.b214fb89.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.f3bd2e94.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.f3bd2e94.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 331.474cd3a8.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 331.474cd3a8.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 985.4f612f30.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 985.4f612f30.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 99% done plugins fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (43 s)
+WARN System.import() is deprecated and will be removed soon. Use import() instead.
+WARN For more info visit https://webpack.js.org/guides/code-splitting/
+WARN System.import() is deprecated and will be removed soon. Use import() instead.
+WARN For more info visit https://webpack.js.org/guides/code-splitting/
+WARN export 'Color' (imported as 'Color') was not found in '../../models/mode.model' (possible exports: BlackColor, DangerColor, GrayColor, Mode, ModeTextColorClass, NoneColor, PrimaryColor, SuccessColor, WarningColor, WhiteColor)
+WARN export 'Color' (imported as 'Color') was not found in '../../models/mode.model' (possible exports: BlackColor, DangerColor, GrayColor, Mode, ModeTextColorClass, NoneColor, PrimaryColor, SuccessColor, WarningColor, WhiteColor)
+WARN export 'Color' (imported as 'Color') was not found in '../../models/mode.model' (possible exports: BlackColor, DangerColor, GrayColor, Mode, ModeTextColorClass, NoneColor, PrimaryColor, SuccessColor, WarningColor, WhiteColor)
+WARN export 'Color' (imported as 'Color') was not found in '../../models/mode.model' (possible exports: BlackColor, DangerColor, GrayColor, Mode, ModeTextColorClass, NoneColor, PrimaryColor, SuccessColor, WarningColor, WhiteColor)
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   main.95913693.iframe.bundle.js (1.56 MiB)
+WARN   985.8687f5d1.iframe.bundle.js (3.93 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (5.5 MiB)
+WARN       runtime~main.15e8f259.iframe.bundle.js
+WARN       985.8687f5d1.iframe.bundle.js
+WARN       main.95913693.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: C:\\Users\\user\\AppData\\Local\\Temp\\chromatic--16660-U9ozf8wSJ97x
